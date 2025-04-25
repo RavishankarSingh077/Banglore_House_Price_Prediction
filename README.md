@@ -41,6 +41,6 @@ A machine learning model that predicts house price using DecisionTreeRegressor
 
     -Split dataset into training and test sets using train_test_split with an 80-20 ratio.
 
-7.Model Building:
+ 7.Model Building:
 
-   -Used DecisionTreeRegressor from scikit-learn to train the model on the processed dataset.
+ -Used DecisionTreeRegressor from scikit-learn to train the model on the processed dataset.
