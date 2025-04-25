@@ -1,7 +1,5 @@
 # Banglore_House_Price_Prediction
-A machine learning model that predicts house price using DecisionTreeRegressor
-
-
+A machine learning model that predicts house price using DecisionTreeRegresso
 
 1. Objective:
 
@@ -43,4 +41,4 @@ A machine learning model that predicts house price using DecisionTreeRegressor
 
  7.Model Building:
 
- -Used DecisionTreeRegressor from scikit-learn to train the model on the processed dataset.
+   -Used DecisionTreeRegressor from scikit-learn to train the model on the processed dataset.
